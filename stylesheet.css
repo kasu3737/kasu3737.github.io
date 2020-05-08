@@ -116,9 +116,9 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+ /* background-color: #f7f7f7;*/
   text-align: center;
- 　background-image: url(dmm.png);
+ background-image: url(dmm.png);
 }
 
 .heading {
