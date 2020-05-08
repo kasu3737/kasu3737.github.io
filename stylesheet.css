@@ -119,6 +119,7 @@ header {
  /* background-color: #f7f7f7;*/
   text-align: center;
  background-image: url(dmm.png);
+ background-size:cover;
 }
 
 .heading {
